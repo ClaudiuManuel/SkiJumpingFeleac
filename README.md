@@ -90,9 +90,9 @@ Thanks!
 
 Tournament results:
 Position    Name
-1           Claudiu (381 points)
-            jump lengths: 79 m, 91 m, 71 m
-2           Manuel (378 points)
-            jump lengths: 71 m, 94 m, 81 m
-3           Beatrice (354 points)
-            jump lengths: 63 m, 76 m, 99 m
+1           Claudiu (381 points) 
+            jump lengths: 79 m, 91 m, 71 m 
+2           Manuel (378 points) 
+            jump lengths: 71 m, 94 m, 81 m 
+3           Beatrice (354 points) 
+            jump lengths: 63 m, 76 m, 99 m 
