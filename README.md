@@ -9,8 +9,11 @@ Feleac ski jumping week
 Write the names of the participants one at a time; an empty string brings you to the jumping phase. 
 
    Participant name: *Claudiu*
+   
    Participant name: *Manuel*
+   
    Participant name: *Beatrice*
+   
    Participant name: 
 
 The tournament begins!
