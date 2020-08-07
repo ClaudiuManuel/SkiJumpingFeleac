@@ -1,9 +1,9 @@
 # SkiJumpingFeleac
 
-**Example of a ski jumping competition.Italic formatted text represent user input**
-
-
-
+**Example of a ski jumping competition.Italic formatted text represents user input**
+             ↓
+             ↓
+             ↓
 Feleac ski jumping week
 
 Write the names of the participants one at a time; an empty string brings you to the jumping phase. 
